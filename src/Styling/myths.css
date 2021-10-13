@@ -1,0 +1,12 @@
+.myths-heading{
+    background:black;
+    min-height: 10vh;
+    margin-top: 2vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+
+    font-size: calc(10px + 2vmin);
+    flex-direction: column;
+    border: solid 5px orange;
+    color: white;
+  }
