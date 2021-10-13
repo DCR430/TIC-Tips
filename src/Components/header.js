@@ -1,12 +1,12 @@
-import react from "react"
-// import './Styling/header.css';
+import React from "react"
+
 
 function Header() {
     return (
       <div className="Header">
      <header className="App-header" >
-         <h1>Talk Is Cheap</h1>
-         <h4 className="subline"> Tips for interviewing</h4>
+         <h1>Tips for interviewing a person who Stutters</h1>
+         <h4 className="subline"> from a person who Stutters</h4>
      </header>
       </div>
     );

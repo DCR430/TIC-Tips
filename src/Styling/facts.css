@@ -1,0 +1,23 @@
+.facts-heading {
+    background:black;
+    min-height: 10vh;
+    margin-top: 2vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+
+  
+    flex-direction: column;
+    border: solid 5px red;
+  }
+
+  .question{
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.answer{
+    font-size: calc(5px + 2vmin);
+    color: white;
+
+}
